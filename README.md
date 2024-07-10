@@ -49,7 +49,7 @@ Buddybot is an AI chatbot built using the Mistral API. This project leverages th
 To start the chatbot, run the following command:
 
 ```sh
-streamlit run app.py
+streamlit run simple chatbot.py
 
 Open your web browser and go to http://localhost:8501 to interact with Buddybot.
 
